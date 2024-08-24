@@ -16,4 +16,4 @@ Bei Verwendung in kommerziellen Projekten oder wissenschaftlichen Publikationen 
 > [!NOTE]
 > Lizenzinformationen / License Notice:
 > 
-> Released under Creative Commons Attribution (CC-BY 4.0). See https://creativecommons.org/licenses/by/4.0/ for more information.
+> Released under Creative Commons Attribution (CC-BY 4.0). See https://creativecommons.org/licenses/by/4.0/ for more information. Date of initial release: 24. August, 2024.
