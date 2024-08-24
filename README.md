@@ -10,3 +10,6 @@ Bittiefe: 16 Bit
 Bitrate: 303 kbps
 
 Bei Verwendung in kommerziellen Projekten oder wissenschaftlichen Publikationen bitte ich um Namensnennung.
+
+Lizenzinformationen / License Notice:
+Released under Creative Commons Attribution (CC-BY 4.0). See https://creativecommons.org/licenses/by/4.0/ for more information.
